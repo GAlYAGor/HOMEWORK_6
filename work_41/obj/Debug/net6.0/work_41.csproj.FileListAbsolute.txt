@@ -1,0 +1,15 @@
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\bin\Debug\net6.0\work_41.exe
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\bin\Debug\net6.0\work_41.deps.json
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\bin\Debug\net6.0\work_41.runtimeconfig.json
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\bin\Debug\net6.0\work_41.dll
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\bin\Debug\net6.0\work_41.pdb
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.csproj.AssemblyReference.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.AssemblyInfoInputs.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.AssemblyInfo.cs
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.csproj.CoreCompileInputs.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.dll
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\refint\work_41.dll
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.pdb
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\work_41.genruntimeconfig.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\УЧЁБА\Homework_6\work_41\obj\Debug\net6.0\ref\work_41.dll
